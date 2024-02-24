@@ -21,6 +21,19 @@ To use the Lua Deobfuscator tool, follow these steps:
 
 4. **Run the batch file.**
 
+## How to Use
+Follow these steps to use the Lua Deobfuscator:
+
+1. **Input script into input.lua**: Place your obfuscated Lua script into the `input.lua` file.
+
+2. **Run BAT file**: Execute the provided batch file to start the deobfuscation process.
+
+3. **Wait for it to decode**: Allow the tool to decode the obfuscated Lua script.
+
+4. **Decompile the output.luac file with an online decompiler**: Once the deobfuscation process is complete, use an online Lua bytecode decompiler to convert the `output.luac` file back into human-readable Lua source code.
+
+5. **Enjoy <3**: Explore and modify the deobfuscated Lua code to your heart's content!
+
 ---
 
 # Lua Deobfuscator 自述文件
@@ -45,3 +58,16 @@ To use the Lua Deobfuscator tool, follow these steps:
 3. **安装适当的要求。[Python 3.11.0](https://www.python.org/downloads/release/python-3110/)，[Node.js](https://nodejs.org/en/download)。**
 
 4. **运行批处理文件。**
+
+## 如何使用
+按照以下步骤使用 Lua Deobfuscator：
+
+1. **将脚本输入到 input.lua 中**：将混淆的 Lua 脚本放入 `input.lua` 文件中。
+
+2. **运行 BAT 文件**：执行提供的批处理文件以开始解混淆过程。
+
+3. **等待解码完成**：等待工具解码混淆的 Lua 脚本。
+
+4. **使用在线反编译器对 output.luac 文件进行反编译**：解混淆过程完成后，使用在线 Lua 字节码反编译器将 `output.luac` 文件转换为易读的 Lua 源代码。
+
+5. **享受 <3**：尽情探索和修改解混淆的 Lua 代码！
